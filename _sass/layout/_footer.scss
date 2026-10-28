@@ -4,6 +4,7 @@
 
 .page__footer {
   @include clearfix;
+  display: none;
   background-color: var(--global-footer-bg-color);
   color: var(--global-text-color-light);
 
